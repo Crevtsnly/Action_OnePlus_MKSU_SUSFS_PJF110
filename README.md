@@ -1,5 +1,5 @@
-# 食用说明
-一加内核开源地址：[OnePlusOSS](https://github.com/OnePlusOSS/kernel_manifest)
+# 介绍
+给一加Ace3V用的SukiSU Ultra内核~
 
-# 原始项目
+# 原项目
 [MKSU-SKN](https://github.com/ShirkNeko/KernelSU)
